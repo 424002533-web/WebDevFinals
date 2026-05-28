@@ -7,14 +7,14 @@ to help make your day a little brighter.
 Whether you're working, studying, or catching up with friends —
 we’ve got your perfect cup.
 
-MEMBERS:
+MEMBERS CONTRIBUTION:
 
-Catundag, Precious Jane D. |
-Peñamante, Athela Fursha F. |
-Nepa, Jastine C. |
-Bernardino, Mariel P. |
-Kuan,Carla Marie G. |
-Terrado Al Cedric C. |
+Catundag, Precious Jane D. (HTML developer) |
+Peñamante, Athela Fursha F. (Project Structure) |
+Nepa, Jastine C. (Video Presentaion and Git Control) |
+Bernardino, Mariel P.(php developer) |
+Kuan,Carla Marie G. (css and image recomendation) |
+Terrado Al Cedric C. (Home page UI/UX Design and Forms) |
 
 Live Server:
 https://424002533-web.github.io/WebDevFinals/
