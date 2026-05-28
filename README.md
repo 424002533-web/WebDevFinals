@@ -17,10 +17,8 @@ Kuan,Carla Marie G. |
 Terrado Al Cedric C. |
 
 Live Server:
-
 https://424002533-web.github.io/WebDevFinals/
 
-**Video Recording:
-**
+Video Recording:
 https://drive.google.com/file/d/1t182QAmZKmV5OMOm0H_5ziV4YF5LM7TV/view?usp=sharing
 
