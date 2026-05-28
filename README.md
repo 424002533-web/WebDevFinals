@@ -1,6 +1,7 @@
 # WebDevFinals
 
-Group
+Groups
+
 Catundag, Precious Jane D.
 Peñamante, Athela Fursha F.
 Nepa, Jastine C.
