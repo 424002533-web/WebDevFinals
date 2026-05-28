@@ -8,6 +8,7 @@ Whether you're working, studying, or catching up with friends —
 we’ve got your perfect cup.
 
 MEMBERS:
+
 Catundag, Precious Jane D. |
 Peñamante, Athela Fursha F. |
 Nepa, Jastine C. |
